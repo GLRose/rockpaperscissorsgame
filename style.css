@@ -3,3 +3,22 @@ h3{
   font-family: arial;
   font-size: 30px;
 }
+
+.main{
+  font-family: arial;
+}
+
+.main select{
+  font-family: courier;
+  font-size: 50px;
+}
+
+.main input{
+  font-family: courier;
+}
+
+.main input:hover{
+  font-family: courier;
+  cursor: pointer;
+  background-color: green;
+}
